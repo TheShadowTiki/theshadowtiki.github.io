@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false # <!-- TODO: Enable when submenus are ready -->
 nav_order: 8
 dropdown: true
 children:
