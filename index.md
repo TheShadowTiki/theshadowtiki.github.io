@@ -13,8 +13,7 @@ social: true
 
 **Barry Goldwater Scholar | B.S. Computer Engineering & B.A. Mathematics**  
 Researcher at University of South Florida  
-Former Undergraduate Research Fellow, Cold Spring Harbor Laboratory  
-[Download CV] [GitHub] [LinkedIn] [Email]
+Former Undergraduate Research Fellow, Cold Spring Harbor Laboratory
 
 ## Research Focus
 
