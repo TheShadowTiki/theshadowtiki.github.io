@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://theshadowtiki.github.io/al-folio/sitemap.xml
+Sitemap: https://theshadowtiki.github.io/sitemap.xml
