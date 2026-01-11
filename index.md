@@ -15,9 +15,9 @@ social: true
 Researcher at University of South Florida  
 Former Undergraduate Research Fellow, Cold Spring Harbor Laboratory
 
-<!--## Research Focus -->
+<!-- ## Research Focus -->
 
-<!--I study the algorithmic theory of neural circuits, seeking to bridge the gap between low-dimensional neural manifolds and mechanistic spiking neural network (SNN) substrates. My goal is to understand how circuit topology and dynamics give rise to flexible cognitive functions like decision-making and latent state inference. -->
+<!-- I study the algorithmic theory of neural circuits, seeking to bridge the gap between low-dimensional neural manifolds and mechanistic spiking neural network (SNN) substrates. My goal is to understand how circuit topology and dynamics give rise to flexible cognitive functions like decision-making and latent state inference. -->
 
 ## Latest Updates
 
