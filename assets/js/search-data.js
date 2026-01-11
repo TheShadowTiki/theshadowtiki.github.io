@@ -16,20 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-leadership",
-          title: "Leadership",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/leadership/";
-          },
-        },{id: "nav-about",
-          title: "About",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/about/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
