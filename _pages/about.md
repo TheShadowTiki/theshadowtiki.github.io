@@ -12,7 +12,7 @@ I came to neuroscience via mathematics and logic, driven by a fascination with h
 
 My intellectual inflection point occurred during a course on **Computer Architecture**, where we systematically analyzed the datapath and control logic powering the fetch-decode-execute cycle. Understanding how a computer’s complex function emerges from structured components with defined roles reshaped how I view the brain.
 
-Since we cannot yet build a brain in the lab, I chose the next best path: acquiring the mathematical and computational tools to model its principles *in silico*. I view the brain through a "systems lens"—where solutions to complex problems (like water scarcity or motor control) are found not in the components themselves, but in their topological organization and dynamic interplay.
+Since we cannot yet build a brain in the lab, I chose the next best path: acquiring the mathematical and computational tools to model its principles *in silico*. I view the brain through a "systems lens" where solutions to complex problems (like water scarcity or motor control) are found not in the components themselves, but in their topological organization and dynamic interplay.
 
 ## Integrated Research Approach
 
@@ -28,7 +28,7 @@ Structure enables dynamics. At CSHL, I investigated how weight manifolds support
 
 ### 3. The Theoretical Objective (MDL & Predictive Coding)
 **At TKAI (Mali Lab)**  
-Dynamics must serve a purpose. I am exploring theoretical frameworks like Minimum Description Length (MDL) and Predictive Coding to explore the normative principles guiding learning—investigating how circuits might optimize information efficiency to build latent representations of the world.
+Dynamics must serve a purpose. I am exploring theoretical frameworks like Minimum Description Length (MDL) and Predictive Coding to explore the normative principles guiding learning, investigating how circuits might optimize information efficiency to build latent representations of the world.
 
 ## Future Outlook
 
